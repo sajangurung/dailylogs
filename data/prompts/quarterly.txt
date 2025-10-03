@@ -1,0 +1,36 @@
+Review the journal entries for the last three months and analyze them to provide insights in the following format:
+
+1. Key Achievements and Milestones:
+   - Major accomplishments
+   - Project completions
+   - Personal growth moments
+
+2. Challenges and Learnings:
+   - Significant obstacles faced
+   - How challenges were addressed
+   - Key lessons learned
+
+3. Patterns and Trends:
+   - Recurring themes in work
+   - Time management patterns
+   - Stress points and well-being indicators
+
+4. Areas for Improvement:
+   - Skills to develop
+   - Processes to optimize
+   - Habits to change
+
+5. Goals Progress:
+   - Status of previous quarter's goals
+   - Adjustments needed
+   - New opportunities identified
+
+6. Action Items:
+   - Specific actions for next quarter
+   - Skills to focus on
+   - Relationships to strengthen
+
+Additional Notes:
+- Notable collaborations
+- Resource needs
+- Support required

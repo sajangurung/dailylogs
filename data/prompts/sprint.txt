@@ -1,0 +1,19 @@
+Review the journal entries for the last two weeks and analyze them to provide insights in the following format:
+
+1. Start (New initiatives or behaviors to begin):
+   - What patterns or opportunities for improvement emerge from the entries?
+   - What new approaches could be beneficial?
+
+2. Stop (Things to discontinue):
+   - What challenges or inefficiencies were mentioned?
+   - What patterns might be holding you back?
+
+3. Continue (Successful practices to maintain):
+   - What approaches or practices showed positive results?
+   - What strategies seemed to work well?
+
+Additional Insights:
+- Key achievements
+- Notable challenges
+- Emerging patterns
+- Action items for the next sprint
